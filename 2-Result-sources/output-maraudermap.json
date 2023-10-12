@@ -1,0 +1,20 @@
+{
+    "injection_rate_in_all": 0.200519054773938,
+    "injection_rate_in_match": 0.9812834224598931,
+    "inject_time_average": 5765.735294117647,
+    "registry_rate_in_all": 0.38423712607567273,
+    "registry_rate_in_match": 0.5761982793936911,
+    "registry_time_average": 38178.5458828349,
+    "file_scan_rate_in_all": 0.42166370714383283,
+    "file_scan_rate_in_match": 0.49140401146131807,
+    "file_scan_time_average": 46998.08580070041,
+    "three_rate_in_all": 0.7080999863406638,
+    "three_rate_in_match": 0.9912473238536507,
+    "three_time_average": 2147.475155775683,
+    "deleteandrewrite_percent_avg": 10.435923566878982,
+    "deleteandrewrite_time_avg": 37407.452229299364,
+    "overwrite_percent_avg": 15.966178489702521,
+    "overwrite_time_avg": 55905.19679633867,
+    "smashandrewrite_percent_avg": 12.144285714285711,
+    "smashandrewrite_time_avg": 22270.65306122449
+}
