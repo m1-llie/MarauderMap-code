@@ -48,7 +48,7 @@ python3 api-count.py [runtime_logs_folder]
 Specifically, we investigate some of the data disruption procedures through the API call chain.
 For example, for process injection during the data reconnaissance phase, the API call chains are as follows:
 
-![api-chain-process-injection](./api-chain-process-injection.png)
+![api-chain-process-injection](./1-Analysis-code/api-chain-process-injection.png)
 
 To obtain information about files，keys and commands, and generate 13 output files "count_files.json", "count_read_files.json", "count_write_files.json", "count_delete_files.json", "count_keys.json", "count_read_keys.json", "count_write_keys.json", "count_delete_keys.json", "count_executed_commands.json", "count_resolved_apis.json", "count_mutexes.json", "count_created_services.json", "count_started_services.json":
 ```
