@@ -1,8 +1,8 @@
 # MarauderMap-code
 
-This repository contains materials from the paper ***An Empirical Study of Data Disruption by Ransomware Attacks*** published in ICSE'24.
+This repository contains materials from the paper [***An Empirical Study of Data Disruption by Ransomware Attacks***](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/MarauderMap_ICSE24.pdf) published in ICSE'24.
 
-We open-source the [large-scale ransomware dataset **MarauderMap**](https://github.com/m1-llie/MarauderMap), its corresponding runtime logs, analysis code, and materials for the enhancement experiment, such as benign IRPs for comparison.
+We open-source the [large-scale ransomware dataset **MarauderMap**](https://github.com/THU-WingTecher/MarauderMap), its corresponding runtime logs, analysis code, and materials for the enhancement experiment, such as benign IRPs for comparison.
 
 The folder tree for this repository is shown below:
 ```
@@ -20,7 +20,7 @@ Please refer to the Google Drive folder: [link](https://drive.google.com/drive/f
 
 
 ## Ransomware Samples
-**MarauderMap** contains 7,796 active and unique ransomware samples from 95 families.
+[**MarauderMap**]((https://github.com/THU-WingTecher/MarauderMap)) contains 7,796 active and unique ransomware samples from 95 families.
 To the best of our knowledge, this sample analysis size is an order of magnitude more than previous studies.
 
 
@@ -113,6 +113,7 @@ The benign applications chosen contain executables with similar behavior pattern
   booktitle = {Proceedings of the 46th IEEE/ACM International Conference on Software Engineering (ICSE'24)},
   year = {2024},
   location = {Lisbon, Portugal},
-  organization={IEEE}
+  organization={IEEE},
+  doi={10.1145/3597503.3639090}
 }
 ```
