@@ -106,6 +106,9 @@ The benign applications chosen contain executables with similar behavior pattern
 
 
 ## Citation
+Thanks for your interest in our paper,
+please feel free to leave a star or cite us through:
+
 ```
 @inproceedings{hou2024maraudermap,
   title = {An Empirical Study of Data Disruption by Ransomware Attacks},
@@ -113,7 +116,7 @@ The benign applications chosen contain executables with similar behavior pattern
   booktitle = {Proceedings of the 46th IEEE/ACM International Conference on Software Engineering (ICSE'24)},
   year = {2024},
   location = {Lisbon, Portugal},
-  organization={IEEE},
+  organization={ACM},
   doi={10.1145/3597503.3639090}
 }
 ```
